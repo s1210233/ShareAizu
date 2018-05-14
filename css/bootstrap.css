@@ -101,7 +101,7 @@
 
 .google-maps {
 position: relative;
-padding-bottom: %; // これが縦横比
+padding-bottom: 100%; // これが縦横比
 height: 0;
 overflow: hidden;
 }
